@@ -1,0 +1,2731 @@
+<!DOCTYPE model>
+<Option type="Map">
+  <Option name="children" type="Map">
+    <Option name="native:addautoincrementalfield_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addautoincrementalfield" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="356" name="component_pos_x" type="double"/>
+        <Option value="307" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti unikalų numerį" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addautoincrementalfield_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="GROUP_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="eldyn_plotinis_sluoksnis" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MODULUS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="SORT_ASCENDING" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="true" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="SORT_EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="SORT_NULLS_FIRST" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="START" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addautoincrementalfield_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addautoincrementalfield" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="413.3853670284235" name="component_pos_x" type="double"/>
+        <Option value="376.78563172263597" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti unikalų numerį" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999999" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addautoincrementalfield_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="GROUP_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="kvartal_plotinis_sluoksnis" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MODULUS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="SORT_ASCENDING" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="true" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="SORT_EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="SORT_NULLS_FIRST" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="START" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="305" name="component_pos_x" type="double"/>
+        <Option value="307" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti ploto 1 gyv. atributą (300 m buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2070" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_plot_kv_m_1gyv_300" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:aggregate_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="446.79312792338516" name="component_pos_x" type="double"/>
+        <Option value="490.33235708754194" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti ploto 1 gyv. atributą (1000 m buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2070" name="component_pos_x" type="double"/>
+      <Option value="525" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_plot_kv_m_1gyv_1000" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="719.8126300380316" name="component_pos_x" type="double"/>
+        <Option value="501.88620451917905" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti želdyno ploto atributą" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="615" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="12" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_plotas_kv_m" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="768.2476875236102" name="component_pos_x" type="double"/>
+        <Option value="913.8432149826792" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti gyv. sk. atributą (1000 m buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="525" name="component_pos_y" type="double"/>
+      <Option value="239.99999999999994" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_gyv_sk_1000" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_5" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_5" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="958.8531357657888" name="component_pos_x" type="double"/>
+        <Option value="931.3835936552724" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti gyv. sk. (300 m buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="435" name="component_pos_y" type="double"/>
+      <Option value="239.99999999999994" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_5" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_gyv_sk_300" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addautoincrementalfield_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_6" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2820" name="component_pos_x" type="double"/>
+        <Option value="1090" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti atributą želdyno kv. m sumai 1 gyv. (300 buferyje)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999998" name="component_pos_x" type="double"/>
+      <Option value="1575" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_6" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_sum_z_kv_m_300" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_6" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_7" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2989.9809643330564" name="component_pos_x" type="double"/>
+        <Option value="1266.5709325775063" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti atributą želdyno kv. m sumai 1 gyv. (1000 buferyje)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999998" name="component_pos_x" type="double"/>
+      <Option value="1665" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_7" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_sum_z_kv_m_1000" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_6" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:addfieldtoattributestable_8" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:addfieldtoattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2992" name="component_pos_x" type="double"/>
+        <Option value="1398" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pridėti kvartalo ploto atributą" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999998" name="component_pos_x" type="double"/>
+      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:addfieldtoattributestable_8" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="10" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_plotas_kv_m" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addautoincrementalfield_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:aggregate_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:aggregate" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2166.8611284867748" name="component_pos_x" type="double"/>
+        <Option value="328.025386437147" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Susumuoti gyv. sk. pagal želdynus" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1740" name="component_pos_x" type="double"/>
+      <Option value="435" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:aggregate_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="AGGREGATES" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option type="Map">
+                <Option value="first_value" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_z_id" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_z_id" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="4" name="type" type="int"/>
+                <Option value="int8" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_gyv_sk_300" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_gyv_sk_300" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_gyv_sk_1000" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_gyv_sk_1000" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="first_value" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_z_plotas_kv_m" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_z_plotas_kv_m" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="0" name="type" type="int"/>
+                <Option value="" name="type_name" type="QString"/>
+              </Option>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="GROUP_BY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:mergevectorlayers_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:aggregate_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:aggregate" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2820" name="component_pos_x" type="double"/>
+        <Option value="1090" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv. (300 buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:aggregate_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="AGGREGATES" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option type="Map">
+                <Option value="first_value" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_k_id" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_k_id" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="4" name="type" type="int"/>
+                <Option value="int8" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_plot_kv_m_1gyv_300" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_sum_z_kv_m_300" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="GROUP_BY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:intersection_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:aggregate_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:aggregate" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2988" name="component_pos_x" type="double"/>
+        <Option value="1163" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv. (1000 buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="1575" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:aggregate_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="AGGREGATES" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option type="Map">
+                <Option value="first_value" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_k_id" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_k_id" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="4" name="type" type="int"/>
+                <Option value="int8" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_plot_kv_m_1gyv_1000" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_sum_z_kv_m_1000" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="GROUP_BY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:intersection_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:aggregate_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:aggregate" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="3369" name="component_pos_x" type="double"/>
+        <Option value="1183" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv." name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1740" name="component_pos_x" type="double"/>
+      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:aggregate_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="AGGREGATES" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option type="Map">
+                <Option value="first_value" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_k_id" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_k_id" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="4" name="type" type="int"/>
+                <Option value="int8" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_sum_z_kv_m_300" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_sum_z_kv_m_300" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+              <Option type="Map">
+                <Option value="sum" name="aggregate" type="QString"/>
+                <Option value="," name="delimiter" type="QString"/>
+                <Option value="calc_sum_z_kv_m_1000" name="input" type="QString"/>
+                <Option value="0" name="length" type="int"/>
+                <Option value="calc_sum_z_kv_m_1000" name="name" type="QString"/>
+                <Option value="0" name="precision" type="int"/>
+                <Option value="0" name="sub_type" type="int"/>
+                <Option value="6" name="type" type="int"/>
+                <Option value="double precision" name="type_name" type="QString"/>
+              </Option>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="GROUP_BY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:mergevectorlayers_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:buffer_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:buffer" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="677" name="component_pos_x" type="double"/>
+        <Option value="206" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Buferis 300 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:buffer_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISSOLVE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="DISTANCE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="300" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="END_CAP_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="JOIN_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MITER_LIMIT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="SEGMENTS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="5" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:buffer_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:buffer" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="606" name="component_pos_x" type="double"/>
+        <Option value="330" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Buferis 1000 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="435" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:buffer_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISSOLVE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="DISTANCE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1000" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="END_CAP_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="JOIN_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MITER_LIMIT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="SEGMENTS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="5" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:buffer_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:buffer" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="755.4166534190306" name="component_pos_x" type="double"/>
+        <Option value="310.61016410265654" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Buferis 300 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:buffer_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISSOLVE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="DISTANCE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="300" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="END_CAP_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_7" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="JOIN_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MITER_LIMIT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="SEGMENTS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="5" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:buffer_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:buffer" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="684.4166534190306" name="component_pos_x" type="double"/>
+        <Option value="434.61016410265654" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Buferis 1000 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:buffer_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISSOLVE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="DISTANCE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1000" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="END_CAP_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_7" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="JOIN_STYLE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="MITER_LIMIT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="SEGMENTS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="5" name="static_value" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:deletecolumn_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:deletecolumn" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2573.8837062500006" name="component_pos_x" type="double"/>
+        <Option value="408.0799546875001" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Ištrinti perteklinius atributus" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2400" name="component_pos_x" type="double"/>
+      <Option value="453.0799546875001" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:deletecolumn_1" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="zeldynu_statistika" type="Map">
+          <Option value="native:deletecolumn_1" name="child_id" type="QString"/>
+          <Option value="" name="color" type="QString"/>
+          <Option name="comment" type="Map">
+            <Option value="" name="color" type="QString"/>
+            <Option value="" name="component_description" type="QString"/>
+            <Option value="60" name="component_height" type="double"/>
+            <Option value="0" name="component_pos_x" type="double"/>
+            <Option value="0" name="component_pos_y" type="double"/>
+            <Option value="100" name="component_width" type="double"/>
+            <Option value="true" name="outputs_collapsed" type="bool"/>
+            <Option value="true" name="parameters_collapsed" type="bool"/>
+          </Option>
+          <Option value="zeldynu_statistika" name="component_description" type="QString"/>
+          <Option value="30" name="component_height" type="double"/>
+          <Option value="2400" name="component_pos_x" type="double"/>
+          <Option value="615" name="component_pos_y" type="double"/>
+          <Option value="240" name="component_width" type="double"/>
+          <Option name="default_value" type="Map">
+            <Option value="QgsProcessingOutputLayerDefinition" name="class" type="QString"/>
+            <Option name="create_options" type="Map">
+              <Option value="System" name="fileEncoding" type="QString"/>
+            </Option>
+            <Option name="sink" type="Map">
+              <Option value="true" name="active" type="bool"/>
+              <Option value="1" name="type" type="int"/>
+              <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+            </Option>
+          </Option>
+          <Option value="true" name="mandatory" type="bool"/>
+          <Option value="zeldynu_statistika" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+          <Option value="true" name="outputs_collapsed" type="bool"/>
+          <Option value="true" name="parameters_collapsed" type="bool"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="COLUMN" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="calc_z_id_2" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:joinattributestable_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:deletecolumn_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:deletecolumn" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="3006.8201394830726" name="component_pos_x" type="double"/>
+        <Option value="747.3236305150078" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Ištrinti perteklinius atributus" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1740" name="component_pos_x" type="double"/>
+      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:deletecolumn_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="COLUMN" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="calc_k_id_2" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:aggregate_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:dissolve_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:dissolve" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2820" name="component_pos_x" type="double"/>
+        <Option value="1300" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Paskaičiuoti 300 m pasiekiamumo aprėptį" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="915" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:dissolve_1" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="zeldynu_apreptis_300m" type="Map">
+          <Option value="native:dissolve_1" name="child_id" type="QString"/>
+          <Option value="" name="color" type="QString"/>
+          <Option name="comment" type="Map">
+            <Option value="" name="color" type="QString"/>
+            <Option value="" name="component_description" type="QString"/>
+            <Option value="60" name="component_height" type="double"/>
+            <Option value="0" name="component_pos_x" type="double"/>
+            <Option value="0" name="component_pos_y" type="double"/>
+            <Option value="100" name="component_width" type="double"/>
+            <Option value="true" name="outputs_collapsed" type="bool"/>
+            <Option value="true" name="parameters_collapsed" type="bool"/>
+          </Option>
+          <Option value="zeldynu_apreptis_300m" name="component_description" type="QString"/>
+          <Option value="30" name="component_height" type="double"/>
+          <Option value="1410" name="component_pos_x" type="double"/>
+          <Option value="915" name="component_pos_y" type="double"/>
+          <Option value="240" name="component_width" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="zeldynu_apreptis_300m" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+          <Option value="true" name="outputs_collapsed" type="bool"/>
+          <Option value="true" name="parameters_collapsed" type="bool"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="SEPARATE_DISJOINT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:dissolve_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:dissolve" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2820" name="component_pos_x" type="double"/>
+        <Option value="1300" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Paskaičiuoti 1000 m pasiekiamumo aprėptį" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="1005" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:dissolve_2" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="zeldynu_apreptis_1000m" type="Map">
+          <Option value="native:dissolve_2" name="child_id" type="QString"/>
+          <Option value="" name="color" type="QString"/>
+          <Option name="comment" type="Map">
+            <Option value="" name="color" type="QString"/>
+            <Option value="" name="component_description" type="QString"/>
+            <Option value="60" name="component_height" type="double"/>
+            <Option value="0" name="component_pos_x" type="double"/>
+            <Option value="0" name="component_pos_y" type="double"/>
+            <Option value="100" name="component_width" type="double"/>
+            <Option value="true" name="outputs_collapsed" type="bool"/>
+            <Option value="true" name="parameters_collapsed" type="bool"/>
+          </Option>
+          <Option value="zeldynu_apreptis_1000m" name="component_description" type="QString"/>
+          <Option value="30" name="component_height" type="double"/>
+          <Option value="1410" name="component_pos_x" type="double"/>
+          <Option value="1005" name="component_pos_y" type="double"/>
+          <Option value="240" name="component_width" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="zeldynu_apreptis_1000m" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+          <Option value="true" name="outputs_collapsed" type="bool"/>
+          <Option value="true" name="parameters_collapsed" type="bool"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="SEPARATE_DISJOINT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="1410" name="component_pos_x" type="double"/>
+        <Option value="520" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti gyv. sk. (300 m buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="435" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_gyv_sk_300" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="attribute(  @gyventoj_skaiaus_reikm  ) / (&quot;calc_k_plotas_kv_m&quot; / $area)" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:intersection_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Gyventojų skaičius 1 km buferyje skaičiuojamas tik želdynų plotams, kurie didesni nei 1 ha" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="1410" name="component_pos_x" type="double"/>
+        <Option value="705" name="component_pos_y" type="double"/>
+        <Option value="240.00000000000003" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti gyv. sk. (1000 m buferis)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="615" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_gyv_sk_1000" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="if(&#xd;&#xa;&#x9;&quot;calc_z_plotas_kv_m&quot; > 10000,&#xd;&#xa;&#x9;attribute(  @gyventoj_skaiaus_reikm  ) / (&quot;calc_k_plotas_kv_m&quot; / $area),&#xd;&#xa;&#x9;NULL&#xd;&#xa;)" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:intersection_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="715.7515938658595" name="component_pos_x" type="double"/>
+        <Option value="612.8878598918837" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti želdyno plotą" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="705" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_plotas_kv_m" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="$area" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2236.519476227664" name="component_pos_x" type="double"/>
+        <Option value="263.1671156033296" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti želdyno plotą 1 gyv. (300 buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2070" name="component_pos_x" type="double"/>
+      <Option value="435" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_plot_kv_m_1gyv_300" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;calc_z_plotas_kv_m&quot; / &quot;calc_gyv_sk_300&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_5" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2340.4823740932525" name="component_pos_x" type="double"/>
+        <Option value="291.68488978423755" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti želdyno plotą 1 gyv. (1000 buferiui)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2070" name="component_pos_x" type="double"/>
+      <Option value="615" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_5" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_plot_kv_m_1gyv_1000" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;calc_z_plotas_kv_m&quot; / &quot;calc_gyv_sk_1000&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fieldcalculator_6" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="443.7515938658595" name="component_pos_x" type="double"/>
+        <Option value="1278.8878598918836" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apskaičiuoti kvartalo plotą" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999998" name="component_pos_x" type="double"/>
+      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fieldcalculator_6" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_plotas_kv_m" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="0" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="$area" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addfieldtoattributestable_8" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:intersection_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:intersection" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="1006" name="component_pos_x" type="double"/>
+        <Option value="214" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Sukirsti su gyv. gardele 300 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:intersection_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_6" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS_PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:intersection_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:intersection" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="885" name="component_pos_x" type="double"/>
+        <Option value="320" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Sukirsti su gyv. gardele 1000 m" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="525" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:intersection_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_6" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS_PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:intersection_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:intersection" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="1136.8409211048388" name="component_pos_x" type="double"/>
+        <Option value="900.8763454966003" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Sukirsti su želdynais (300 m buferiu)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:intersection_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:deletecolumn_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS_PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:intersection_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:intersection" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="1257.9309731432718" name="component_pos_x" type="double"/>
+        <Option value="1156.3034277124998" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Sukirsti su želdynais (1000 m buferiu)" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1410" name="component_pos_x" type="double"/>
+      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:intersection_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:deletecolumn_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="native:buffer_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="OVERLAY_FIELDS_PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:joinattributestable_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:joinattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2490" name="component_pos_x" type="double"/>
+        <Option value="760" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Prijungti stat. prie želdynų sluoksnio" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2400" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:joinattributestable_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISCARD_NONMATCHING" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELDS_TO_COPY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="FIELD_2" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_z_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addautoincrementalfield_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_2" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_5" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="METHOD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:joinattributestable_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:joinattributestable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2576.426089612603" name="component_pos_x" type="double"/>
+        <Option value="896.6553555557558" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Prijungti stat. prie kvartalų sluoksnio" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="2070" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:joinattributestable_2" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="kvartalu_statistika" type="Map">
+          <Option value="native:joinattributestable_2" name="child_id" type="QString"/>
+          <Option value="" name="color" type="QString"/>
+          <Option name="comment" type="Map">
+            <Option value="" name="color" type="QString"/>
+            <Option value="" name="component_description" type="QString"/>
+            <Option value="60" name="component_height" type="double"/>
+            <Option value="0" name="component_pos_x" type="double"/>
+            <Option value="0" name="component_pos_y" type="double"/>
+            <Option value="100" name="component_width" type="double"/>
+            <Option value="true" name="outputs_collapsed" type="bool"/>
+            <Option value="true" name="parameters_collapsed" type="bool"/>
+          </Option>
+          <Option value="kvartalu_statistika" name="component_description" type="QString"/>
+          <Option value="30" name="component_height" type="double"/>
+          <Option value="2070" name="component_pos_x" type="double"/>
+          <Option value="1395" name="component_pos_y" type="double"/>
+          <Option value="240" name="component_width" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="kvartalu_statistika" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+          <Option value="true" name="outputs_collapsed" type="bool"/>
+          <Option value="true" name="parameters_collapsed" type="bool"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DISCARD_NONMATCHING" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="false" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELDS_TO_COPY" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="List">
+              <Option value="" type="QString"/>
+            </Option>
+          </Option>
+        </Option>
+        <Option name="FIELD_2" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="calc_k_id" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:addautoincrementalfield_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_2" type="List">
+          <Option type="Map">
+            <Option value="native:deletecolumn_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="METHOD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="PREFIX" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:mergevectorlayers_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:mergevectorlayers" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2216.9812988454873" name="component_pos_x" type="double"/>
+        <Option value="235.2114958798764" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apjungti buferių sluoksnius" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1740" name="component_pos_x" type="double"/>
+      <Option value="345" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:mergevectorlayers_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="native:fieldcalculator_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:fieldcalculator_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:mergevectorlayers_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:mergevectorlayers" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="2412.035926492159" name="component_pos_x" type="double"/>
+        <Option value="864.9756082732429" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Apjungti buferių sluoksnius" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1740" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:mergevectorlayers_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="native:aggregate_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:aggregate_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option name="designerParameterValues" type="Map">
+    <Option value="Zeldynai_out2v_4bfc509b_9c66_48e1_a53f_2fbc9bbd32ec" name="eldyn_plotinis_sluoksnis" type="QString"/>
+    <Option value="SUM_ReCount" name="gyventoj_skaiaus_reikm" type="QString"/>
+    <Option value="SUM_ReCount" name="gyventoj_skaiiaus_atributas" type="QString"/>
+    <Option value="Gyv_zonos_out2v_a76a1914_54bb_45dc_b699_3a1ace936dae" name="kvartal_plotinis_sluoksnis" type="QString"/>
+    <Option name="kvartalu_statistika" type="QgsProcessingOutputLayerDefinition">
+      <Option type="Map">
+        <Option name="create_options" type="Map">
+          <Option value="System" name="fileEncoding" type="QString"/>
+        </Option>
+        <Option name="sink" type="Map">
+          <Option value="true" name="active" type="bool"/>
+          <Option value="1" name="type" type="int"/>
+          <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="zeldynu_apreptis_1000m" type="QgsProcessingOutputLayerDefinition">
+      <Option type="Map">
+        <Option name="create_options" type="Map">
+          <Option value="System" name="fileEncoding" type="QString"/>
+        </Option>
+        <Option name="sink" type="Map">
+          <Option value="true" name="active" type="bool"/>
+          <Option value="1" name="type" type="int"/>
+          <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="zeldynu_apreptis_300m" type="QgsProcessingOutputLayerDefinition">
+      <Option type="Map">
+        <Option name="create_options" type="Map">
+          <Option value="System" name="fileEncoding" type="QString"/>
+        </Option>
+        <Option name="sink" type="Map">
+          <Option value="true" name="active" type="bool"/>
+          <Option value="1" name="type" type="int"/>
+          <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="zeldynu_statistika" type="QgsProcessingOutputLayerDefinition">
+      <Option type="Map">
+        <Option name="create_options" type="Map">
+          <Option value="System" name="fileEncoding" type="QString"/>
+        </Option>
+        <Option name="sink" type="Map">
+          <Option value="true" name="active" type="bool"/>
+          <Option value="1" name="type" type="int"/>
+          <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option name="groupBoxes" type="List">
+    <Option type="Map">
+      <Option value="38,38,38,153" name="color" type="QString"/>
+      <Option value="Želdynų bendros aprėpties apskaičiavimas" name="component_description" type="QString"/>
+      <Option value="240" name="component_height" type="double"/>
+      <Option value="1590" name="component_pos_x" type="double"/>
+      <Option value="960" name="component_pos_y" type="double"/>
+      <Option value="1980" name="component_width" type="double"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option value="{50fd6fbe-7450-444d-8555-6fae27e6966f}" name="uuid" type="QString"/>
+    </Option>
+    <Option type="Map">
+      <Option value="38,38,38,153" name="color" type="QString"/>
+      <Option value="Želdynų statistikos apskaičiavimas" name="component_description" type="QString"/>
+      <Option value="600" name="component_height" type="double"/>
+      <Option value="1590" name="component_pos_x" type="double"/>
+      <Option value="1440" name="component_pos_y" type="double"/>
+      <Option value="1979.9999999999998" name="component_width" type="double"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option value="{52a3c7ec-d172-4ed7-81ee-d8eec6b4abe2}" name="uuid" type="QString"/>
+    </Option>
+    <Option type="Map">
+      <Option value="38,38,38,153" name="color" type="QString"/>
+      <Option value="Želdynų statistikos apskaičiavimas" name="component_description" type="QString"/>
+      <Option value="600" name="component_height" type="double"/>
+      <Option value="1590" name="component_pos_x" type="double"/>
+      <Option value="480" name="component_pos_y" type="double"/>
+      <Option value="1980" name="component_width" type="double"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option value="{cafcadf4-cfa6-4c17-8a59-c3dd25111e49}" name="uuid" type="QString"/>
+    </Option>
+  </Option>
+  <Option name="help" type="Map">
+    <Option value="Aplinkos ministerija 2022" name="ALG_CREATOR" type="QString"/>
+    <Option value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>QGIS aplinkoje veikiantis įrankis, skirtas apskaičiuoti gyventojų statistiką pateiktiems želdynų ir kvartalų (funkcinių zonų) sluoksniams. &lt;/p>&#xa;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>&lt;br />&lt;/p>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Įrankis apskaičiuoja šią statistinę informaciją:&lt;/p>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>  - Pateiktam želdynų plotiniam sluoksniui - kiek konkretaus želdyno ploto tenka vienam gyventojui;&lt;/p>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>  - Pateiktam kvartalų plotiniam sluoksniui - kiek želdynų ploto tenka kvartalo gyventojams;&lt;/p>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>  - Želdynų bendrą aprėptį 300 ir 1000 m atstumu.&lt;/p>&#xa;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>&lt;br />&lt;/p>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Gyventojų statistika skaičiuojama naudojant Jūsų nurodyto kvartalų sluoksnio gyventojų skaičiaus atributą.&lt;/p>&lt;/body>&lt;/html>" name="ALG_DESC" type="QString"/>
+    <Option value="" name="ALG_HELP_CREATOR" type="QString"/>
+    <Option value="1" name="ALG_VERSION" type="QString"/>
+    <Option value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>&lt;br />&lt;/p>&lt;/body>&lt;/html>" name="EXAMPLES" type="QString"/>
+    <Option value="" name="HELP_URL" type="QString"/>
+    <Option value="Želdynų statistikos apskaičiavimo modelis." name="SHORT_DESCRIPTION" type="QString"/>
+    <Option value="Želdynų iš bendrojo plano plotinis sluoksnis. Sluoksnis turi būti pateiktas LKS94 koordinačių sistemoje." name="eldyn_plotinis_sluoksnis" type="QString"/>
+    <Option value="Statistikos departamento 2022 m. gyventojų surašymo statistikos 100x100 m gardelė." name="gyv_skaiiaus_gardel_100x1002" type="QString"/>
+    <Option value="Kvartalų plotinio sluoksnio atributas, kuriame kaupiami gyventojų skaičiaus duomenys. Atributas turi būti skaičius." name="gyventoj_skaiaus_reikm" type="QString"/>
+    <Option value="Kvartalų (funkcinių zonų) iš bendrojo plano plotinis sluoksnis.  Sluoksnis turi būti pateiktas LKS94 koordinačių sistemoje. Taip pat galite pateikti ir kitus plotinius sluoksnius, kuriuose kaupiama statistika apie gyventojų skaičių, pvz. gyventojų statistikos gardeles, teritorijas su planuojamu gyventojų skaičiumi." name="kvartal_plotinis_sluoksnis" type="QString"/>
+    <Option value="Kvartalų (funkcinių zonų) plotams apskaičiuota 1 gyventojui tenkanti želdynų norma." name="kvartalu_statistika" type="QString"/>
+    <Option value="Visų želdynų aprėžtis 1000 m spinduliu." name="zeldynu_apreptis_1000m" type="QString"/>
+    <Option value="Visų želdynų aprėžtis 300 m spinduliu." name="zeldynu_apreptis_300m" type="QString"/>
+    <Option value="Želdynų plotams apskaičiuota gyventojų statistika. Statistika skaičiuojama vertinant kiek želdyno ploto tenka 1 gyventojui." name="zeldynu_statistika" type="QString"/>
+  </Option>
+  <Option value="Version2" name="internal_version" type="QString"/>
+  <Option name="modelVariables"/>
+  <Option value="" name="model_group" type="QString"/>
+  <Option value="Želdynų statistika (naudojant BP gyventojų duomenis)" name="model_name" type="QString"/>
+  <Option name="parameterDefinitions" type="Map">
+    <Option name="eldyn_plotinis_sluoksnis" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="2" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Želdynų plotinis sluoksnis" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="Želdynų iš bendrojo plano plotinis sluoksnis. Sluoksnis turi būti pateiktas LKS94 koordinačių sistemoje." name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="eldyn_plotinis_sluoksnis" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="gyventoj_skaiaus_reikm" type="Map">
+      <Option value="false" name="allow_multiple" type="bool"/>
+      <Option value="0" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="false" name="default_to_all_fields" type="bool"/>
+      <Option value="Gyventojų skaičaus reikšmė" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="Kvartalų plotinio sluoksnio atributas, kuriame kaupiami gyventojų skaičiaus duomenys. Atributas turi būti skaičius." name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="gyventoj_skaiaus_reikm" name="name" type="QString"/>
+      <Option value="field" name="parameter_type" type="QString"/>
+      <Option value="kvartal_plotinis_sluoksnis" name="parent_layer" type="QString"/>
+    </Option>
+    <Option name="kvartal_plotinis_sluoksnis" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="2" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Kvartalų plotinis sluoksnis" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="Kvartalų (funkcinių zonų) iš bendrojo plano plotinis sluoksnis.  Sluoksnis turi būti pateiktas LKS94 koordinačių sistemoje. Taip pat galite pateikti ir kitus plotinius sluoksnius, kuriuose kaupiama statistika apie gyventojų skaičių, pvz. gyventojų statistikos gardeles, teritorijas su planuojamu gyventojų skaičiumi." name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="kvartal_plotinis_sluoksnis" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="kvartalu_statistika" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="kvartalu_statistika" name="description" type="QString"/>
+      <Option value="8" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata" type="Map">
+        <Option value="native:joinattributestable_2" name="_modelChildId" type="QString"/>
+        <Option value="kvartalu_statistika" name="_modelChildOutputName" type="QString"/>
+        <Option value="native" name="_modelChildProvider" type="QString"/>
+      </Option>
+      <Option value="kvartalu_statistika" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="false" name="supports_append" type="bool"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="zeldynu_apreptis_1000m" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="zeldynu_apreptis_1000m" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata" type="Map">
+        <Option value="native:dissolve_2" name="_modelChildId" type="QString"/>
+        <Option value="zeldynu_apreptis_1000m" name="_modelChildOutputName" type="QString"/>
+        <Option value="native" name="_modelChildProvider" type="QString"/>
+      </Option>
+      <Option value="zeldynu_apreptis_1000m" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="false" name="supports_append" type="bool"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="zeldynu_apreptis_300m" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="zeldynu_apreptis_300m" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata" type="Map">
+        <Option value="native:dissolve_1" name="_modelChildId" type="QString"/>
+        <Option value="zeldynu_apreptis_300m" name="_modelChildOutputName" type="QString"/>
+        <Option value="native" name="_modelChildProvider" type="QString"/>
+      </Option>
+      <Option value="zeldynu_apreptis_300m" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="false" name="supports_append" type="bool"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="zeldynu_statistika" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="QgsProcessingOutputLayerDefinition">
+        <Option type="Map">
+          <Option name="create_options" type="Map">
+            <Option value="System" name="fileEncoding" type="QString"/>
+          </Option>
+          <Option name="sink" type="Map">
+            <Option value="true" name="active" type="bool"/>
+            <Option value="1" name="type" type="int"/>
+            <Option value="TEMPORARY_OUTPUT" name="val" type="QString"/>
+          </Option>
+        </Option>
+      </Option>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="zeldynu_statistika" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata" type="Map">
+        <Option value="native:deletecolumn_1" name="_modelChildId" type="QString"/>
+        <Option value="zeldynu_statistika" name="_modelChildOutputName" type="QString"/>
+        <Option value="native" name="_modelChildProvider" type="QString"/>
+      </Option>
+      <Option value="zeldynu_statistika" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="true" name="supports_append" type="bool"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+  </Option>
+  <Option name="parameterOrder" type="StringList">
+    <Option value="eldyn_plotinis_sluoksnis" type="QString"/>
+    <Option value="kvartal_plotinis_sluoksnis" type="QString"/>
+    <Option value="gyv_skaiiaus_gardel_100x1002" type="QString"/>
+  </Option>
+  <Option name="parameters" type="Map">
+    <Option name="eldyn_plotinis_sluoksnis" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="388" name="component_pos_x" type="double"/>
+        <Option value="118" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="eldyn_plotinis_sluoksnis" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="255" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option value="eldyn_plotinis_sluoksnis" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="gyventoj_skaiaus_reikm" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="854" name="component_pos_x" type="double"/>
+        <Option value="953" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="gyventoj_skaiaus_reikm" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="1095" name="component_pos_x" type="double"/>
+      <Option value="1215" name="component_pos_y" type="double"/>
+      <Option value="210" name="component_width" type="double"/>
+      <Option value="gyventoj_skaiaus_reikm" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="kvartal_plotinis_sluoksnis" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="786.4451252795461" name="component_pos_x" type="double"/>
+        <Option value="881.3325613085468" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="kvartal_plotinis_sluoksnis" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="779.9999999999999" name="component_pos_x" type="double"/>
+      <Option value="1215" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option value="kvartal_plotinis_sluoksnis" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+  </Option>
+</Option>
