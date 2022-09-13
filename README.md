@@ -42,7 +42,7 @@ Kaip pasinaudoti įrankius:
 6. Jums bus sugeneruoti 4 sluoksniai: želdynų statistika, kvartalų statistika ir želdynų aprėptys 300 ir 1000 m spinduliu.
 
 Susipažinkite su įrankio taikymo video pradžiamoksliu:
-<video src='docs/video' width=180/>
+[![Įrankio taikymo pradžiamokslis](https://img.youtube.com/vi/w-QuTFl820I/0.jpg)](https://youtu.be/w-QuTFl820I)
 
 
 ## Statistikos apskaičiavimo algoritmas
