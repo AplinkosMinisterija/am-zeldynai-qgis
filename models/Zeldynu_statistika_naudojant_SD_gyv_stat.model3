@@ -43,8 +43,9 @@
         </Option>
         <Option name="INPUT" type="List">
           <Option type="Map">
-            <Option value="eldyn_plotinis_sluoksnis" name="parameter_name" type="QString"/>
-            <Option value="0" name="source" type="int"/>
+            <Option value="native:fixgeometries_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
           </Option>
         </Option>
         <Option name="MODULUS" type="List">
@@ -96,8 +97,8 @@
       </Option>
       <Option value="Pridėti unikalų numerį" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="779.9999999999997" name="component_pos_x" type="double"/>
-      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="781.9999999999997" name="component_pos_x" type="double"/>
+      <Option value="1392" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:addautoincrementalfield_2" name="id" type="QString"/>
@@ -121,8 +122,9 @@
         </Option>
         <Option name="INPUT" type="List">
           <Option type="Map">
-            <Option value="kvartal_plotinis_sluoksnis" name="parameter_name" type="QString"/>
-            <Option value="0" name="source" type="int"/>
+            <Option value="native:fixgeometries_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
           </Option>
         </Option>
         <Option name="MODULUS" type="List">
@@ -469,8 +471,8 @@
       </Option>
       <Option value="Pridėti atributą želdyno kv. m sumai 1 gyv. (300 buferyje)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="780" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="782" name="component_pos_x" type="double"/>
+      <Option value="1482" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:addfieldtoattributestable_6" name="id" type="QString"/>
@@ -528,8 +530,8 @@
       </Option>
       <Option value="Pridėti atributą želdyno kv. m sumai 1 gyv. (1000 buferyje)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="780" name="component_pos_x" type="double"/>
-      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="782" name="component_pos_x" type="double"/>
+      <Option value="1572" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:addfieldtoattributestable_7" name="id" type="QString"/>
@@ -679,8 +681,8 @@
       </Option>
       <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv. (300 buferiui)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1410" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="1412" name="component_pos_x" type="double"/>
+      <Option value="1482" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:aggregate_2" name="id" type="QString"/>
@@ -749,8 +751,8 @@
       </Option>
       <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv. (1000 buferiui)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1410" name="component_pos_x" type="double"/>
-      <Option value="1575" name="component_pos_y" type="double"/>
+      <Option value="1412" name="component_pos_x" type="double"/>
+      <Option value="1662" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:aggregate_3" name="id" type="QString"/>
@@ -819,8 +821,8 @@
       </Option>
       <Option value="Paskaičiuoti želdyno kv. m sumą 1 gyv." name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1740" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="1742" name="component_pos_x" type="double"/>
+      <Option value="1482" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:aggregate_4" name="id" type="QString"/>
@@ -1042,8 +1044,8 @@
       </Option>
       <Option value="Buferis 300 m" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1095" name="component_pos_x" type="double"/>
-      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="1097" name="component_pos_x" type="double"/>
+      <Option value="1392" name="component_pos_y" type="double"/>
       <Option value="210" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:buffer_3" name="id" type="QString"/>
@@ -1113,8 +1115,8 @@
       </Option>
       <Option value="Buferis 1000 m" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1095" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="1097" name="component_pos_x" type="double"/>
+      <Option value="1482" name="component_pos_y" type="double"/>
       <Option value="210" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:buffer_4" name="id" type="QString"/>
@@ -1263,8 +1265,8 @@
       </Option>
       <Option value="Ištrinti perteklinius atributus" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1740" name="component_pos_x" type="double"/>
-      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="1742" name="component_pos_x" type="double"/>
+      <Option value="1572" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:deletecolumn_2" name="id" type="QString"/>
@@ -1306,8 +1308,8 @@
       </Option>
       <Option value="Ištrinti perteklinius atributus" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="2070" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="2072" name="component_pos_x" type="double"/>
+      <Option value="1482" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:deletecolumn_3" name="id" type="QString"/>
@@ -1327,8 +1329,8 @@
           </Option>
           <Option value="kvartalu_statistika" name="component_description" type="QString"/>
           <Option value="30" name="component_height" type="double"/>
-          <Option value="2070" name="component_pos_x" type="double"/>
-          <Option value="1485" name="component_pos_y" type="double"/>
+          <Option value="2072" name="component_pos_x" type="double"/>
+          <Option value="1572" name="component_pos_y" type="double"/>
           <Option value="240" name="component_width" type="double"/>
           <Option name="default_value" type="invalid"/>
           <Option value="false" name="mandatory" type="bool"/>
@@ -1352,7 +1354,7 @@
         <Option name="INPUT" type="List">
           <Option type="Map">
             <Option value="native:joinattributestable_2" name="child_id" type="QString"/>
-            <Option value="NON_MATCHING" name="output_name" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
             <Option value="1" name="source" type="int"/>
           </Option>
         </Option>
@@ -1833,6 +1835,74 @@
         </Option>
       </Option>
     </Option>
+    <Option name="native:fixgeometries_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fixgeometries" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="490" name="component_pos_x" type="double"/>
+        <Option value="263" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pataisyti želdynų geometriją" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="255" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fixgeometries_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="eldyn_plotinis_sluoksnis" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:fixgeometries_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:fixgeometries" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="868" name="component_pos_x" type="double"/>
+        <Option value="1053" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Pataisyti kvartalų geometriją" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
+      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="240" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:fixgeometries_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="kvartal_plotinis_sluoksnis" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
     <Option name="native:intersection_1" type="Map">
       <Option value="true" name="active" type="bool"/>
       <Option name="alg_config"/>
@@ -1976,8 +2046,8 @@
       </Option>
       <Option value="Sukirsti su želdynais (300 m buferiu)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1410" name="component_pos_x" type="double"/>
-      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="1412" name="component_pos_x" type="double"/>
+      <Option value="1392" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:intersection_3" name="id" type="QString"/>
@@ -2040,8 +2110,8 @@
       </Option>
       <Option value="Sukirsti su želdynais (1000 m buferiu)" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1410" name="component_pos_x" type="double"/>
-      <Option value="1485" name="component_pos_y" type="double"/>
+      <Option value="1412" name="component_pos_x" type="double"/>
+      <Option value="1572" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:intersection_4" name="id" type="QString"/>
@@ -2184,8 +2254,8 @@
       </Option>
       <Option value="Prijungti stat. prie kvartalų sluoksnio" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="2070" name="component_pos_x" type="double"/>
-      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="2072" name="component_pos_x" type="double"/>
+      <Option value="1392" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:joinattributestable_2" name="id" type="QString"/>
@@ -2310,8 +2380,8 @@
       </Option>
       <Option value="Apjungti buferių sluoksnius" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="1740" name="component_pos_x" type="double"/>
-      <Option value="1305" name="component_pos_y" type="double"/>
+      <Option value="1742" name="component_pos_x" type="double"/>
+      <Option value="1392" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option name="dependencies"/>
       <Option value="native:mergevectorlayers_2" name="id" type="QString"/>
@@ -2408,9 +2478,9 @@
     <Option type="Map">
       <Option value="38,38,38,153" name="color" type="QString"/>
       <Option value="Želdynų statistikos apskaičiavimas" name="component_description" type="QString"/>
-      <Option value="509.99999999999994" name="component_height" type="double"/>
-      <Option value="1590" name="component_pos_x" type="double"/>
-      <Option value="1395" name="component_pos_y" type="double"/>
+      <Option value="597" name="component_height" type="double"/>
+      <Option value="1592" name="component_pos_x" type="double"/>
+      <Option value="1438.5" name="component_pos_y" type="double"/>
       <Option value="1979.9999999999998" name="component_width" type="double"/>
       <Option value="true" name="outputs_collapsed" type="bool"/>
       <Option value="true" name="parameters_collapsed" type="bool"/>
@@ -2419,9 +2489,9 @@
     <Option type="Map">
       <Option value="38,38,38,153" name="color" type="QString"/>
       <Option value="Želdynų statistikos apskaičiavimas" name="component_description" type="QString"/>
-      <Option value="600" name="component_height" type="double"/>
+      <Option value="689.9999999999999" name="component_height" type="double"/>
       <Option value="1590" name="component_pos_x" type="double"/>
-      <Option value="480" name="component_pos_y" type="double"/>
+      <Option value="434.99999999999994" name="component_pos_y" type="double"/>
       <Option value="1980" name="component_width" type="double"/>
       <Option value="true" name="outputs_collapsed" type="bool"/>
       <Option value="true" name="parameters_collapsed" type="bool"/>
@@ -2593,7 +2663,7 @@
       <Option value="eldyn_plotinis_sluoksnis" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
       <Option value="780" name="component_pos_x" type="double"/>
-      <Option value="255" name="component_pos_y" type="double"/>
+      <Option value="165" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option value="eldyn_plotinis_sluoksnis" name="name" type="QString"/>
       <Option value="true" name="outputs_collapsed" type="bool"/>
@@ -2634,7 +2704,7 @@
       </Option>
       <Option value="kvartal_plotinis_sluoksnis" name="component_description" type="QString"/>
       <Option value="30" name="component_height" type="double"/>
-      <Option value="779.9999999999997" name="component_pos_x" type="double"/>
+      <Option value="780" name="component_pos_x" type="double"/>
       <Option value="1215" name="component_pos_y" type="double"/>
       <Option value="240" name="component_width" type="double"/>
       <Option value="kvartal_plotinis_sluoksnis" name="name" type="QString"/>
