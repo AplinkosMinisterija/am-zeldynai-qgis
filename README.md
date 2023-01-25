@@ -44,6 +44,8 @@ Kaip pasinaudoti įrankius:
 Susipažinkite su įrankio taikymo video pradžiamoksliu:
 [![Įrankio taikymo pradžiamokslis](https://img.youtube.com/vi/w-QuTFl820I/0.jpg)](https://youtu.be/w-QuTFl820I)
 
+Susipažinkite su dažniausiai užduodamais įrankio naudojimo klausimais [DUK skiltyje](docs/faq/README.md).
+
 
 ## Statistikos apskaičiavimo algoritmas
 
